@@ -1,5 +1,5 @@
 package com.example;
-/* test line */
+/* test line hello     */
 /**
  * This is a class.
  */
